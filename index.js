@@ -53,8 +53,8 @@ const users = [
   },
   {
     _id: String(randomHash),
-    name: "Tatiane",
-    email: "tatiane@gmail.com",
+    name: "Tati",
+    email: "tati@gmail.com",
     active: true,
   },
 ];
